@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Desktop/netflix video"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "newnetflix"
+	}
+}
